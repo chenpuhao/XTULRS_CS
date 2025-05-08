@@ -1,4 +1,6 @@
-﻿namespace LRS;
+﻿using LRS;
+
+namespace LRS;
 
 public partial class addSeatForm : Form
 {

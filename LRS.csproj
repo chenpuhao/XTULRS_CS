@@ -10,7 +10,7 @@
         <Company>hauchet</Company>
         <Product>湘潭大学图书馆预约系统</Product>
         <PackageIcon>favicon.jpg</PackageIcon>
-        <ApplicationIcon>bin\Debug\net9.0-windows\favicon.ico</ApplicationIcon>
+        <ApplicationIcon>favicon.ico</ApplicationIcon>
     </PropertyGroup>
 
     <ItemGroup>
